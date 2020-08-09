@@ -1,7 +1,7 @@
 import React from 'react';
 import {connect} from "react-redux";
 
-import ToDoCard from "../Components/ToDoCard/ToDoCard";
+import ToDoCard from "../../Components/ToDoCard/ToDoCard";
 
 
 function ToDoList({toDoList}) {
